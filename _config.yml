@@ -1,0 +1,32 @@
+title: "Nine Slicer Documentation"
+
+repository: outoftheboxplugins/NineSlicers-docs
+
+remote_theme: just-the-docs/just-the-docs
+color_scheme: plugins
+logo: "/branding/logo.png"
+favicon_ico: "/branding/favicon.ico"
+
+aux_links:
+  "Open an issue":
+    - "//github.com/outoftheboxplugins/NineSlicer-docs/issues"
+aux_links_new_tab: true
+
+enable_copy_code_button: true
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+callouts:
+  warning:
+    title: Warning
+    color: yellow
+  important:
+    title: Important
+    color: red
+  note:
+    title: Note
+    color: purple
+  new:
+    title: New
+    color: green
