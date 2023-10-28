@@ -1,6 +1,6 @@
-title: "Nine Slicer Documentation"
+title: "Clean Project Documentation"
 
-repository: outoftheboxplugins/NineSlicers-docs
+repository: outoftheboxplugins/CleanProject-docs
 
 remote_theme: just-the-docs/just-the-docs
 color_scheme: plugins
@@ -9,7 +9,7 @@ favicon_ico: "/branding/favicon.ico"
 
 aux_links:
   "Open an issue":
-    - "//github.com/outoftheboxplugins/NineSlicer-docs/issues"
+    - "//github.com/outoftheboxplugins/CleanProject-docs/issues"
 aux_links_new_tab: true
 
 enable_copy_code_button: true
